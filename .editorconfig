@@ -13,5 +13,5 @@ trim_trailing_whitespace = true
 [*.hbs]
 insert_final_newline = false
 
-[*.md]
+[*.md]         
 trim_trailing_whitespace = false
